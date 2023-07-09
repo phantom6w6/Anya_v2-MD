@@ -1,8 +1,8 @@
-// Q U E E N - A N Y A - M D  #v2
+// L A Y L A - M D  #v2
 
-// • # Made by @PikaBotz [ GitHub.com/PikaBotz ]
+// • # Made by @Trinity [ GitHub.com/phantom6w6 ]
 // • # The script is Encrypted because users are not allowed to commit any changes without permission!
-// • # To buy non enc version of Anya-pika-MD-v2 please contact wa.me/918811074852 [ $5 - $8 ]
+// • # To buy non enc version of Layla-MD-v2 please contact wa.me/263779694908 [ $5 - $8 ]
 
 // • T H A N K S - TO
 // @NexusAt12
@@ -22,26 +22,26 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
+global.botname = "Layla MD" 
+global.author = "Trinity"  
+global.packname = "Layla MD"  
+global.myweb = "https://www.github.com/phantom6w6"
+global.footer = "©\t" + "@Trinity_Tech"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
+global.socialLink = `*⪧⪢ https://chat.whatsapp.com/Dh5jDpHDAcW4ydXXsoUjEq 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
+global.ownername = "Trinity"    
+global.ownernumber = ["263779694908"]
 global.ytname = "YT: Enter Your Channel Name Here"
-global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.continent = "Africa" // your continent name 
+global.region = "Zimbabwe"
+global.state = "Harare" // your state name
+global.timezone = "Africa/Harare" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.email = "seanmandi6@gmail.com"
 
 
 // Greeting messages
